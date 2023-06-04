@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const button = () => {
+const Button = () => {
   return (
     <div>button</div>
   )
 }
+
+export default Button
